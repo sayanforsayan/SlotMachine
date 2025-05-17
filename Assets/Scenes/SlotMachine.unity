@@ -883,11 +883,11 @@ MonoBehaviour:
   reelText: {fileID: 32353306}
   symbols:
   - 0
-  - A
-  - B
-  - C
-  - D
-  - E
+  - F
+  - G
+  - H
+  - I
+  - J
 --- !u!1 &928674703
 GameObject:
   m_ObjectHideFlags: 0
@@ -1077,11 +1077,11 @@ MonoBehaviour:
   reelText: {fileID: 766333071}
   symbols:
   - 0
-  - A
-  - B
-  - C
-  - D
-  - E
+  - K
+  - M
+  - N
+  - O
+  - P
 --- !u!1 &1295559007
 GameObject:
   m_ObjectHideFlags: 0

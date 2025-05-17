@@ -3,8 +3,8 @@ using System.Collections;
 using TMPro;
 public class Reel : MonoBehaviour
 {
-    public TMP_Text reelText;
-    public string[] symbols = { "0", "A", "B", "C", "D", "E" };
+    [SerializeField] private TMP_Text reelText;
+    [SerializeField] private string[] symbols = { };
 
     private string finalSymbol;
 
